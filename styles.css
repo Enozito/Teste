@@ -1,0 +1,17 @@
+﻿body {
+    background-color: aqua;
+    font-family: Arial;
+    font-size: 14px;
+}
+
+h1 {
+    color: crimson;
+}
+
+#wrapper {
+    background-color: white;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+}

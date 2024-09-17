@@ -1,0 +1,59 @@
+C:\College\Second Year\Web Development I\Second Application\Second Application\bin\Second Application.dll.config
+C:\College\Second Year\Web Development I\Second Application\Second Application\bin\Second Application.dll
+C:\College\Second Year\Web Development I\Second Application\Second Application\bin\Second Application.pdb
+C:\College\Second Year\Web Development I\Second Application\Second Application\bin\roslyn\csc.exe
+C:\College\Second Year\Web Development I\Second Application\Second Application\bin\roslyn\csc.exe.config
+C:\College\Second Year\Web Development I\Second Application\Second Application\bin\roslyn\csc.rsp
+C:\College\Second Year\Web Development I\Second Application\Second Application\bin\roslyn\csi.exe
+C:\College\Second Year\Web Development I\Second Application\Second Application\bin\roslyn\csi.exe.config
+C:\College\Second Year\Web Development I\Second Application\Second Application\bin\roslyn\csi.rsp
+C:\College\Second Year\Web Development I\Second Application\Second Application\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\College\Second Year\Web Development I\Second Application\Second Application\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\College\Second Year\Web Development I\Second Application\Second Application\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\College\Second Year\Web Development I\Second Application\Second Application\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\College\Second Year\Web Development I\Second Application\Second Application\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\College\Second Year\Web Development I\Second Application\Second Application\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\College\Second Year\Web Development I\Second Application\Second Application\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\College\Second Year\Web Development I\Second Application\Second Application\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\College\Second Year\Web Development I\Second Application\Second Application\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\College\Second Year\Web Development I\Second Application\Second Application\bin\roslyn\Microsoft.Managed.Core.targets
+C:\College\Second Year\Web Development I\Second Application\Second Application\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\College\Second Year\Web Development I\Second Application\Second Application\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\College\Second Year\Web Development I\Second Application\Second Application\bin\roslyn\System.AppContext.dll
+C:\College\Second Year\Web Development I\Second Application\Second Application\bin\roslyn\System.Collections.Immutable.dll
+C:\College\Second Year\Web Development I\Second Application\Second Application\bin\roslyn\System.Console.dll
+C:\College\Second Year\Web Development I\Second Application\Second Application\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\College\Second Year\Web Development I\Second Application\Second Application\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\College\Second Year\Web Development I\Second Application\Second Application\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\College\Second Year\Web Development I\Second Application\Second Application\bin\roslyn\System.Globalization.Calendars.dll
+C:\College\Second Year\Web Development I\Second Application\Second Application\bin\roslyn\System.IO.Compression.dll
+C:\College\Second Year\Web Development I\Second Application\Second Application\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\College\Second Year\Web Development I\Second Application\Second Application\bin\roslyn\System.IO.FileSystem.dll
+C:\College\Second Year\Web Development I\Second Application\Second Application\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\College\Second Year\Web Development I\Second Application\Second Application\bin\roslyn\System.Net.Http.dll
+C:\College\Second Year\Web Development I\Second Application\Second Application\bin\roslyn\System.Net.Sockets.dll
+C:\College\Second Year\Web Development I\Second Application\Second Application\bin\roslyn\System.Reflection.Metadata.dll
+C:\College\Second Year\Web Development I\Second Application\Second Application\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\College\Second Year\Web Development I\Second Application\Second Application\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\College\Second Year\Web Development I\Second Application\Second Application\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\College\Second Year\Web Development I\Second Application\Second Application\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\College\Second Year\Web Development I\Second Application\Second Application\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\College\Second Year\Web Development I\Second Application\Second Application\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\College\Second Year\Web Development I\Second Application\Second Application\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\College\Second Year\Web Development I\Second Application\Second Application\bin\roslyn\System.ValueTuple.dll
+C:\College\Second Year\Web Development I\Second Application\Second Application\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\College\Second Year\Web Development I\Second Application\Second Application\bin\roslyn\System.Xml.XmlDocument.dll
+C:\College\Second Year\Web Development I\Second Application\Second Application\bin\roslyn\System.Xml.XPath.dll
+C:\College\Second Year\Web Development I\Second Application\Second Application\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\College\Second Year\Web Development I\Second Application\Second Application\bin\roslyn\vbc.exe
+C:\College\Second Year\Web Development I\Second Application\Second Application\bin\roslyn\vbc.exe.config
+C:\College\Second Year\Web Development I\Second Application\Second Application\bin\roslyn\vbc.rsp
+C:\College\Second Year\Web Development I\Second Application\Second Application\bin\roslyn\VBCSCompiler.exe
+C:\College\Second Year\Web Development I\Second Application\Second Application\bin\roslyn\VBCSCompiler.exe.config
+C:\College\Second Year\Web Development I\Second Application\Second Application\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\College\Second Year\Web Development I\Second Application\Second Application\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\College\Second Year\Web Development I\Second Application\Second Application\obj\Debug\Second Application.csproj.AssemblyReference.cache
+C:\College\Second Year\Web Development I\Second Application\Second Application\obj\Debug\Second Application.csproj.CoreCompileInputs.cache
+C:\College\Second Year\Web Development I\Second Application\Second Application\obj\Debug\Second A.F4D1072D.Up2Date
+C:\College\Second Year\Web Development I\Second Application\Second Application\obj\Debug\Second Application.dll
+C:\College\Second Year\Web Development I\Second Application\Second Application\obj\Debug\Second Application.pdb
